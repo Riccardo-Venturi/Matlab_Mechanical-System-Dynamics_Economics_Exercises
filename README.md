@@ -1,5 +1,9 @@
 # Matlab_simulations_
 This is a repo of old matlab simulations and new ones i used to gain experience with real case studies
+## 🎬 Simulazioni
+
+### Pendolo
+![Simulazione Pendolo](media/pendolo.gif)
 # 🚀 Applied System Dynamics & Engineering Economics
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-blue)
 ![Python](https://img.shields.io/badge/Python-Coming_Soon-yellow)
